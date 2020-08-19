@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Ben 👋 🤠
+
+---------------------------
+
+I'm passionate about web development and design, particularly with React or anything Node related.
+In my spare time you can catch me playing football, video games, piano or working on something to do with my [Anime blog](https://www.instagram.com/featurefield/?hl=en)
+
+Contact:📫  [linkedin](https://www.linkedin.com/in/ben-taylor-tech/) | [website](https://ben-taylor-portfolio.netlify.app/) 
+
 
 <!--
 **BenRiska/BenRiska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
