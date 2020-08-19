@@ -1,5 +1,4 @@
 ### Hi there, I'm Ben 👋 🤠
-
 ---------------------------
 
 I'm passionate about web development and design, particularly with React or anything Node related.
