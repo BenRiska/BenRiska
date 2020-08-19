@@ -5,7 +5,7 @@
 I'm passionate about web development and design, particularly with React or anything Node related.
 In my spare time you can catch me playing football, video games, piano or working on something to do with my [Anime blog](https://www.instagram.com/featurefield/?hl=en)
 
-Contact:📫  [linkedin](https://www.linkedin.com/in/ben-taylor-tech/) | [website](https://ben-taylor-portfolio.netlify.app/) 
+Contact: 📫    [linkedin](https://www.linkedin.com/in/ben-taylor-tech/) | [website](https://ben-taylor-portfolio.netlify.app/) 
 
 
 <!--
