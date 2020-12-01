@@ -7,7 +7,7 @@ Outside of tech you can catch me playing football, video games, piano or working
 
 Contact: 📫    [Linkedin](https://www.linkedin.com/in/ben-taylor-tech/) | [Website](https://portfolio-11585.web.app/) 
 
-Check out my [Blog](blog-6a15f.web.app) for SE and productivity related content.
+Check out my [Blog](https://blog-6a15f.web.app) for SE and productivity related content.
 
 Email: Ben10Taylor10@hotmail.com
 
