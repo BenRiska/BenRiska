@@ -26,6 +26,16 @@
 <p><img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
 <img src="https://img.shields.io/badge/-GSAP-white?style=flat-square&logo=gsap&logoColor=56A818" />
-<img src="https://img.shields.io/badge/-Framer_Motion%20CSS-white?style=flat-square&logo=framer-motion%20css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/-Framer_Motion-white?style=flat-square&logo=framer-motion%20css&logoColor=38B2AC" />
 <img src="https://img.shields.io/badge/-Styled_Components-white?style=flat-square&logo=styled-components&logoColor=CC6699" /></p>
+</h5>
+<h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
+<p>𝙱𝚊𝚌𝚔𝚎𝚗𝚍: </p>
+<p><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
+<img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express" />
+<img src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js" />
+<img src="https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql" />
+<img src="https://img.shields.io/badge/-Ruby_On_Rails-white?style=flat-square&logo=ruby&logoColor=E61216" />
+<img src="https://img.shields.io/badge/-NoSQL-white?style=flat-square&logo=nosql" />
+<img src="https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase&logoColor=006400" /></p>
 </h5>
