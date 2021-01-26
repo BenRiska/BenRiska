@@ -6,10 +6,6 @@
 
 ### I'm passionate about web development and design, particularly with react.js.
 
-<p align="center">
-<img align="center" alt="Ben Riska Github Stats" src="https://github-readme-stats.vercel.app/api?username=benriska&show_icons=true&hide_border=true"/>
-</p>
-
 - 👾 Outside of tech you can catch me playing football, video games, piano or working on something to do with my [Art Blog](https://www.instagram.com/featurefield/?hl=en)
 
 - 💌 Contact: [Linkedin](https://www.linkedin.com/in/ben-taylor-tech/) | [Portfolio](https://portfolio-11585.web.app/) | [Email](Ben10Taylor10@hotmail.com)
@@ -52,3 +48,7 @@
 <img src="https://img.shields.io/badge/-Jest-white?style=flat-square&logo=jest&logoColor=C21325" />
 <img src="https://img.shields.io/badge/-VS_Code-white?style=flat-square&logo=vs-code" /></p>
 </h5>
+
+<p align="center">
+<img align="center" alt="Ben Riska Github Stats" src="https://github-readme-stats.vercel.app/api?username=benriska&show_icons=true&hide_border=true"/>
+</p>
