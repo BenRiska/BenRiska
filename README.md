@@ -37,7 +37,8 @@
 <img src="https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql" />
 <img src="https://img.shields.io/badge/-Rails-white?style=flat-square&logo=ruby&logoColor=E61216" />
 <img src="https://img.shields.io/badge/-NoSQL-white?style=flat-square&logo=nosql" />
-<img src="https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase&logoColor=FFCB2D" /></p>
+<img src="https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase&logoColor=FFCB2D" />
+<img src="https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql&logoColor=DD35A5" /></p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜: </p>
