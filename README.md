@@ -53,12 +53,12 @@
 <br>
 
 <p align="center">
-<img align="center" alt="Ben Riska Github Stats" src="https://github-readme-stats.vercel.app/api?username=benriska&show_icons=true&hide_border=true"/>
+<img align="center" alt="Ben Riska Github Stats" src="https://github-readme-stats.vercel.app/api?username=benriska&show_icons=true&hide_border=true&hide=issues"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img align="center" alt="Ben Riska Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benriska&layout=compact"/>
+<img align="center" alt="Ben Riska Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benriska&layout=compact&hide_title=true"/>
 </p>
