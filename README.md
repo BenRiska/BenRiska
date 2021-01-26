@@ -62,3 +62,10 @@
 <p align="center">
 <img align="center" alt="Ben Riska Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benriska&layout=compact&hide_title=true"/>
 </p>
+
+<br>
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=monokai&hide_title=true&hide_border=true&hide=html,jupyter%20notebook" />
+</p>
