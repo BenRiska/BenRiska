@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express" />
 <img src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js" />
 <img src="https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql" />
-<img src="https://img.shields.io/badge/-Ruby_On_Rails-white?style=flat-square&logo=ruby&logoColor=E61216" />
+<img src="https://img.shields.io/badge/-Rails-white?style=flat-square&logo=ruby&logoColor=E61216" />
 <img src="https://img.shields.io/badge/-NoSQL-white?style=flat-square&logo=nosql" />
-<img src="https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase&logoColor=006400" /></p>
+<img src="https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase&logoColor=FFCB2D" /></p>
 </h5>
