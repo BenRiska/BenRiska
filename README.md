@@ -26,6 +26,6 @@
 <p><img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
 <img src="https://img.shields.io/badge/-GSAP-white?style=flat-square&logo=gsap&logoColor=56A818" />
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-white?style=flat-square&logo=tailwind%20css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/-Framer_Motion%20CSS-white?style=flat-square&logo=framer-motion%20css&logoColor=38B2AC" />
 <img src="https://img.shields.io/badge/-Styled_Components-white?style=flat-square&logo=styled-components&logoColor=CC6699" /></p>
 </h5>
