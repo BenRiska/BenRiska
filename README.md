@@ -21,3 +21,11 @@
 <img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" /></p>
 </h5>
+<h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
+<p>𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍: </p>
+<p><img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
+<img src="https://img.shields.io/badge/-GSAP-white?style=flat-square&logo=gsap&logoColor=56A818" />
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-white?style=flat-square&logo=tailwind%20css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/-Styled_Components-white?style=flat-square&logo=sass&logoColor=CC6699" /></p>
+</h5>
