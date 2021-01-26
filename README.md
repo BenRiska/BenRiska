@@ -10,7 +10,7 @@
 
 - 💌 Contact: [Linkedin](https://www.linkedin.com/in/ben-taylor-tech/) | [Portfolio](https://portfolio-11585.web.app/) | [Email](Ben10Taylor10@hotmail.com)
 
-- 📚 Check out my work [Blog](https://blog-6a15f.web.app) for SE and productivity related content.
+- 📚 Check out my personal [Blog](https://blog-6a15f.web.app) for SE and productivity related content.
 
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: </p>
