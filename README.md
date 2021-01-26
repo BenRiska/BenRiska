@@ -67,5 +67,5 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=monokai&hide_title=true&hide_border=true&hide=html,jupyter%20notebook" />
+<img width="550" src="https://raw.githubusercontent.com/BenRiska/profile-unicorn/6019088a7fb3d8e9189f5dd412f4eb42d73398bc/profile-summary-card-output/github/0-profile-details.svg" />
 </p>
