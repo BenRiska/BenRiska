@@ -1,4 +1,4 @@
-# Hi there, I'm Ben 👋
+# Hi there, I'm Ben 👋 ⚡️
 
 <p align="center">
 <img src="/assets/koi.gif" height="100px" />
