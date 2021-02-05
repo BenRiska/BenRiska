@@ -60,7 +60,7 @@
 <br>
 
 <p align="center">
-<img align="center" alt="Ben Riska Github Stats" src="https://github-readme-stats.vercel.app/api?username=benriska&show_icons=true&hide_border=true&hide=issues"/>
+<img align="center" alt="Ben Riska Github Stats" src="https://raw.githubusercontent.com/BenRiska/profile-unicorn/dc7ab50b54f23b928b825f938f0cc916651abb48/profile-summary-card-output/nord_bright/0-profile-details.svg"/>
 </p>
 
 <br>
