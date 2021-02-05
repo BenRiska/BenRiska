@@ -53,14 +53,14 @@
 <br>
 
 <p align="center">
-<img width="550" src="https://raw.githubusercontent.com/BenRiska/profile-unicorn/6019088a7fb3d8e9189f5dd412f4eb42d73398bc/profile-summary-card-output/github/0-profile-details.svg" />
+<img align="center" alt="Ben Riska Github Stats" src="https://raw.githubusercontent.com/BenRiska/profile-unicorn/dc7ab50b54f23b928b825f938f0cc916651abb48/profile-summary-card-output/nord_bright/0-profile-details.svg"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-<img align="center" alt="Ben Riska Github Stats" src="https://raw.githubusercontent.com/BenRiska/profile-unicorn/dc7ab50b54f23b928b825f938f0cc916651abb48/profile-summary-card-output/nord_bright/0-profile-details.svg"/>
+<img align="center" alt="Ben Riska Github Stats" src="https://github-readme-stats.vercel.app/api?username=benriska"/>
 </p>
 
 <br>
