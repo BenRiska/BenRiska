@@ -46,7 +46,9 @@
 <img src="https://img.shields.io/badge/-NPM-white?style=flat-square&logo=npm&logoColor=2C8EBB" />
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/-Jest-white?style=flat-square&logo=jest&logoColor=C21325" />
-<img src="https://img.shields.io/badge/-VS_Code-white?style=flat-square&logo=vs-code" /></p>
+<img src="https://img.shields.io/badge/-VS_Code-white?style=flat-square&logo=vs-code" />
+<img src="https://img.shields.io/badge/-VS_Code-white?style=flat-square&logo=webpack" />
+</p>
 </h5>
 
 <br>
