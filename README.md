@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/-Jest-white?style=flat-square&logo=jest&logoColor=C21325" />
 <img src="https://img.shields.io/badge/-VS_Code-white?style=flat-square&logo=vs-code" />
 <img src="https://img.shields.io/badge/-Webpack-white?style=flat-square&logo=webpack" />
-  <img src="https://img.shields.io/badge/-Webpack-white?style=flat-square&logo=heroku" />
+  <img src="https://img.shields.io/badge/-Heroku-white?style=flat-square&logo=heroku&logoColor=C21325" />
 </p>
 </h5>
 
