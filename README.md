@@ -1,6 +1,6 @@
-# Hi there, I'm Ben 👋 ⚡️
+# Hi there, I'm Ben 👋 
 
-<p align="center">
+<p>
 <img src="/assets/koi.gif" height="100px" />
 </p>
 
