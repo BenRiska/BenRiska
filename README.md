@@ -52,23 +52,3 @@
 </p>
 </h5>
 
-<br>
-<br>
-
-<p align="center">
-<img align="center" alt="Ben Riska Github Stats" src="https://raw.githubusercontent.com/BenRiska/profile-unicorn/d43afa9dbd677f5e6a864bf91d6fe954be218d86/profile-summary-card-output/nord_bright/0-profile-details.svg"/>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-<img align="center" alt="Ben Riska Github Stats" src="https://github-readme-stats.vercel.app/api?username=benriska"/>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-<img align="center" alt="Ben Riska Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benriska&layout=compact&hide_title=true"/>
-</p>
