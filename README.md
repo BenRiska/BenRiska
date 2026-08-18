@@ -19,5 +19,5 @@ These days, I still spend most of my spare time making things, whether that's ex
 ### Elsewhere
 
 * [LinkedIn](https://www.linkedin.com/in/ben-taylor-tech/)
-* [Portfolio](https://portfolio-11585.web.app/) - almost 6 years old at this point, i will find the time to renew at some point (promise)
+* [Portfolio](https://portfolio-11585.web.app/) - almost 6 years old and very outdated, i will find the time to renew at some point (promise)
 
