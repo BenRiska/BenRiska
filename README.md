@@ -6,7 +6,7 @@ I'm a self-taught developer who started learning to code during covid in lockdow
 
 My path into software has been a little unconventional. I played academy football with **Chelsea** and later **Staines Town**, while also spending much of my teens building things on the internet.
 
-I founded **Team TraMa**, an early YouTube gaming team that grew to 50,000 subscribers, before becoming a founding member of **Synergy**, which grew into a community of over 300,000 subscribers. Later, I founded **FeatureField**, a digital art community that grew to over 200,000 followers.
+I founded [**Team TraMa**](https://www.youtube.com/tramasniping), an early YouTube gaming team that grew to 50,000 subscribers, before becoming a founding member of [**Synergy**](https://www.youtube.com/synergyps3), which grew into a community of over 300,000 subscribers. Later, I founded [**FeatureField**](https://www.instagram.com/featurefield/), a digital art community that grew to over 200,000 followers.
 
 These days, I still spend most of my spare time making things, whether that's experimenting with AI, building side projects, designing, or disappearing down a completely unnecessary technical rabbit hole.
 
