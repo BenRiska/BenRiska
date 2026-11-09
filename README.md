@@ -2,7 +2,7 @@
 
 I'm a Software Engineer at **Starling Bank**, building and scaling digital products in FinTech.
 
-I'm a self-taught developer who started learning to code during lockdown, eventually turning that curiosity into a career in software engineering. I'm particularly interested in **product engineering, AI, and building things that people genuinely enjoy using**.
+I'm a self-taught developer who started learning to code during covid in lockdown, eventually turning that curiosity into a career in software engineering. I'm particularly interested in **product engineering, AI, and building things that people genuinely enjoy using**.
 
 My path into software has been a little unconventional. I played academy football with **Chelsea** and later **Staines Town**, while also spending much of my teens building things on the internet.
 
